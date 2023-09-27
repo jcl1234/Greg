@@ -9,8 +9,5 @@ name = "pypi"
 [packages]
 openai = "*"
 rich = "*"
-numpy = "*"
-nomic = "*"
-pandas = "*"
 
 [dev-packages]
