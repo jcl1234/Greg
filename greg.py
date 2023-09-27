@@ -132,7 +132,7 @@ Terminal guidelines:
             - assistant: *causes terminal to output files*
             - assistant: *DOESN"T LIST FILES IN CHAT MODE*
 
-#Commands:
+# Commands:
 
 ---
 ## !chat
