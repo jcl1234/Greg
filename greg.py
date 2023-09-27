@@ -147,7 +147,6 @@ Use this mode to communicate with the user.
 This command puts you in "terminal" mode.
 Anything you type while in terminal mode will direct to the users terminal. Do NOT output any text that will be an invalid terminal command.
 When you enter a terminal command, you will receive the output from the users terminal (beginning with [TERMINAL])
-Type the "!term" again to exit terminal mode.
 
 You use feedback from the terminal to inform your next terminal executions and / or your response to the user.
 If a terminal command fails, try not to run the same command again.
